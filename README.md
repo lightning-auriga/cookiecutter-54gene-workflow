@@ -35,7 +35,7 @@ npm install -g commitizen cz-conventional-changelog
 - Use cookiecutter and follow the prompts to populate a new directory with all the boilerplate and directory structure you'll need.
 
 ```
-cookiecutter http://10.133.130.114/bballew/cookiecutter-cgr-workflow.git
+cookiecutter https://github.com/bballew/cookiecutter-54gene-workflow.git
 ```
 
 ### Step 3: Initialize your repo
