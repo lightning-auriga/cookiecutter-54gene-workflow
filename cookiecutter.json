@@ -1,9 +1,9 @@
 {
   "full_name": "Bari Jane Ballew",
-  "email": "bari.ballew@nih.gov",
+  "email": "bari.ballew@54gene.com",
   "username": "bballew",
-  "project_name": "CGR RNA-Seq",
-  "repo_name": "cgr-rna-seq",
+  "project_name": "54gene WGS germline",
+  "repo_name": "54gene-wgs-germline",
   "min_snakemake_version": "5.7.0",
   "linting_support_for_CPP": ["yes", "no"],
   "linting_support_for_R": ["yes", "no"],

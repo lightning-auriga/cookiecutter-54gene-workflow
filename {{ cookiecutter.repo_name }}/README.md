@@ -1,4 +1,4 @@
-# CGR workflow: {{cookiecutter.project_name}}
+# 54gene workflow: {{cookiecutter.project_name}}
 
 This is the template for a new Snakemake workflow. Replace this text with a comprehensive description covering the purpose and domain.
 Insert your code into the respective folders, i.e. `scripts`, `rules`, and `envs`. Define the entry point of the workflow in the `Snakefile` and the main configuration in the `config.yaml` file.
