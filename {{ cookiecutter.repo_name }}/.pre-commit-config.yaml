@@ -10,7 +10,7 @@ repos:
   - id: check-yaml
   - id: check-added-large-files
 - repo: https://github.com/codespell-project/codespell
-  rev: v1.17.1
+  rev: v2.0.0
   hooks:
   - id: codespell
 {% if cookiecutter.linting_support_for_python == "yes" %}
