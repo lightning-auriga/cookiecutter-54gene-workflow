@@ -20,7 +20,7 @@ C. Palmer
 mamba env create -f dev_environment.yaml
 
 # activate the env
-conda activate dev_environment.yaml
+conda activate dev
 ```
 
 - Install [commitizen](https://github.com/commitizen/cz-cli) as follows
