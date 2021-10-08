@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# cookiecutter infrastructure
+package*json
+node_modules
