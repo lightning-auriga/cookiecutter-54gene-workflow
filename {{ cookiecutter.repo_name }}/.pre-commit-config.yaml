@@ -16,7 +16,7 @@ repos:
 {% if cookiecutter.linting_support_for_python == "yes" %}
 ## Python support
 - repo: https://github.com/psf/black
-  rev: 22.1.0
+  rev: 22.3.0
   hooks:
   - id: black
 - repo: https://gitlab.com/PyCQA/flake8
@@ -32,7 +32,7 @@ repos:
 {% if cookiecutter.linting_support_for_snakemake == "yes" %}
 ## Snakemake linting
 - repo: https://github.com/snakemake/snakefmt
-  rev: 0.4.4
+  rev: v0.6.0
   hooks:
   - id: snakefmt
 {% endif %}
