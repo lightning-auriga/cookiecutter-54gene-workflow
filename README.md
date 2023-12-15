@@ -5,7 +5,7 @@ Cookiecutter template for 54gene workflows.  This is based off of conventions de
 ## Authors
 B. Ballew  
 J. Fear  
-C. Palmer  
+L. Auriga  
 
 ## Usage
 
