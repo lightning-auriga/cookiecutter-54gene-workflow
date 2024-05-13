@@ -1,6 +1,6 @@
-# cookiecutter-54gene-workflow
+# cookiecutter-snakemake-workflow
 
-Cookiecutter template for 54gene workflows.  This is based off of conventions defined for Snakemake workflows, but may be adapted for any other workflow management system.
+Cookiecutter template for snakemake workflows.  This is based off of conventions defined for Snakemake workflows, but may be adapted for any other workflow management system.
 
 ## Authors
 B. Ballew  

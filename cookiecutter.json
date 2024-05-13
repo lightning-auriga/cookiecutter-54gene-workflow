@@ -1,11 +1,10 @@
 {
-  "full_name": "Bari Jane Ballew",
-  "email": "bari.ballew@54gene.com",
-  "username": "bjballew",
-  "project_name": "54gene WGS germline",
-  "repo_name": "54gene-wgs-germline",
-  "min_snakemake_version": "6.8.2",
-  "linting_support_for_CPP": ["yes", "no"],
+  "full_name": "Lightning Auriga",
+  "email": "lightning.auriga@gmail.com",
+  "username": "lightning-auriga",
+  "project_name": "Cool Workflow",
+  "repo_name": "cool-workflow",
+  "min_snakemake_version": "7.0.0",
   "linting_support_for_R": ["yes", "no"],
   "linting_support_for_python": ["yes", "no"],
   "linting_support_for_snakemake": ["yes", "no"]

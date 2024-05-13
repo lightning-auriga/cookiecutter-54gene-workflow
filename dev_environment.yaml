@@ -1,8 +1,7 @@
 name: dev
 channels:
-  - bioconda
   - conda-forge
-  - defaults
+  - bioconda
 dependencies:
   - black
   - cookiecutter
@@ -15,9 +14,6 @@ dependencies:
   - pre-commit
   - snakefmt
   - snakemake
-# support for C++ linting utilities
-  - cppcheck
-  - sarcasm::clang-format
 # support for R linting utilities
   - r-devtools
   - r-docopt

@@ -36,16 +36,6 @@ repos:
   hooks:
   - id: snakefmt
 {% endif %}
-{% if cookiecutter.linting_support_for_CPP == "yes" %}
-## C++ support
-- repo: https://gitlab.com/daverona/pre-commit/cpp
-  rev: 0.8.0
-  hooks:
-  - id: clang-format
-  - id: cpplint
-    args: ["--includeorder=default"]
-  - id: cppcheck
-{% endif %}
 {% if cookiecutter.linting_support_for_R == "yes" %}
 ## R support
 - repo: https://github.com/lorenzwalthert/precommit
